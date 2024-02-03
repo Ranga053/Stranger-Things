@@ -1,10 +1,10 @@
-<html> 
-<title> Stranger Things</title> 
-<head>
-<h1> 
-Strange Things 
-</h1> 
-</head>
-<body>
-<img src="Eleven.jpg"> 
-</body> 
+
+<html>
+ <head>
+ <title>Stranger Things</title>
+ </head>
+ <body>
+ <h1>Stranger Things</h1>
+ <img width="50%" src="Eleven.jpg">
+ </body>
+</html>
